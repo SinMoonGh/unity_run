@@ -1,3 +1,9 @@
+# my ignore file
+Library/
+Logs/
+Temp/
+UserSettings/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
